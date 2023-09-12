@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Use BeautifulSoup to scrape an HTML document.
-- Use scraped data to build a nested data structure.
+- Use scraped data to build a nested data structure...
 
 ***
 
